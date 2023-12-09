@@ -3,6 +3,8 @@
 ⚡ I am finshing up my fifth quarter of Drexel's MLIS program
 🔭 I’m currently working on an exercise for my Data and Digital Stewardship class at Drexel
 
+I found this dataset pretty interesting: [nfl-play-by-play](https://www.dolthub.com/repositories/Liquidata/nfl-play-by-play) and this topic really fun: [Superhero Data Analysis](https://github.com/mars-aria/superhero_data_analysis).
+
 
 <!--
 **lpetruzella/lpetruzella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
