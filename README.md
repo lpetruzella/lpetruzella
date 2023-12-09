@@ -1,4 +1,8 @@
 ### Hi there 👋
+😄 Pronouns are she/her
+⚡ I am finshing up my fifth quarter of Drexel's MLIS program
+🔭 I’m currently working on an exercise for my Data and Digital Stewardship class at Drexel
+
 
 <!--
 **lpetruzella/lpetruzella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
